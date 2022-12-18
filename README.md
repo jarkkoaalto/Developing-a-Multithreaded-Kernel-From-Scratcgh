@@ -1,1 +1,1 @@
-# Developing-a-Multithreaded-Kernel-From-Scratcgh
+# Developing-a-Multithreaded-Kernel-From-Scratch
